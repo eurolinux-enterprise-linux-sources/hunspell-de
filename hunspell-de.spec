@@ -2,7 +2,7 @@ Name: hunspell-de
 Summary: German hunspell dictionaries
 %define upstreamid 20120607
 Version: 0.%{upstreamid}
-Release: 3%{?dist}
+Release: 4%{?dist}
 Source: http://www.j3e.de/ispell/igerman98/dict/igerman98-%{upstreamid}.tar.bz2
 Group: Applications/Text
 URL: http://www.j3e.de/ispell/igerman98
@@ -64,6 +64,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/myspell/*
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.20120607-4
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.20120607-3
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
