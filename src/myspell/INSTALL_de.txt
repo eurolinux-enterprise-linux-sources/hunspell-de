@@ -1,0 +1,13 @@
+Installationsanleitung siehe:
+
+http://de.openoffice.org/spellcheck/about-spellcheck.html
+
+Support:
+
+http://de.openoffice.org/about-users-mailinglist.html (toter Link)
+
+*** all webmasters, please google for "Cool URIs don't change" ***
+
+Momentan korrekter Link:
+
+http://de.openoffice.org/servlets/SummarizeList?listName=users
